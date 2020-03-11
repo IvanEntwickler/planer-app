@@ -5,6 +5,7 @@
 .form{
     display: flex;
     justify-content: center;
+    flex-shrink: 1 40%;
     align-items: center;
     max-width: 40rem;
     max-height: 4rem;
