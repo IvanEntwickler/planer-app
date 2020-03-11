@@ -1,0 +1,27 @@
+.container{
+    display: flex;
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 40rem;
+    max-height: 4rem;
+}
+
+.input-field{
+    width: 30rem;
+    height:2rem;
+    margin-right: 1rem;
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+.button-style{
+    font-size: 1rem;
+    font-weight: 700;
+    border-radius: 3rem;
+    width: 20rem;
+    height: 2rem;
+}

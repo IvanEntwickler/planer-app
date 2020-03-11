@@ -1,0 +1,19 @@
+.element-container{
+    min-width: 600px;
+    min-height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid black;
+    margin-bottom: 7.5px;
+}
+
+.remove-button{
+    padding: 5px 20px;
+    margin-right: 10px;
+    background-color:rgba(18, 66, 18, 0.808);
+}
+
+.remove-button:hover{
+    cursor: pointer;
+}
